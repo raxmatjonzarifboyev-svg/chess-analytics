@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+games.csv
+mistakes.csv
+summary.txt
